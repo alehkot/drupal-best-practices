@@ -1,7 +1,5 @@
-Drupal Website Launch Checklist
-=======================
 
-## Pre-launch ##
+## Drupal Website Launch Checklist ##
 - Perform load testing & optimization beforehand include slow-log analyses;
 - [Percona Toolkit](http://www.percona.com/doc/percona-toolkit/2.2/pt-query-digest.html) for MySQL can help to analyze slow logs;
 - Check Drupal SEO Tools report;
