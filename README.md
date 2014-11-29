@@ -63,7 +63,7 @@ To secure your a website from automated attacks it always better to hide the CMS
 - By renaming default Drupal strings (e.g. using String Overrides module);
 - By renaming default classes in Drupal theme;
 - By changing default upload paths;
-- By creation of custom 403/404 pages;
+- By creation of custom 403/404 pages; (e.g. https://www.drupal.org/project/search404);
 - By removing, renaming and/or updating update.php file;
 - By removing, renaming and/or updating cron.php file;
 - By updating default images, e.g. throbber.
