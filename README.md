@@ -8,6 +8,9 @@
   - [Site Audit module](https://drupal.org/project/site_audit);
   - Acquia Insight;
   - YSlow;
+- Install and configure [Security Kit module](https://www.drupal.org/project/seckit).
+- Install [Username Enumeration Prevention module](https://www.drupal.org/project/username_enumeration_prevention). Also it's suggested to apply patches to it.
+- Install and configure [Secure Pages](https://www.drupal.org/project/securepages) module.
 - Run Performance and Scalability Checklist module;
 - Analyze Coder Review results;
 - Perform load testing using tools with cleared database cache, memcache and image styles when caches are disabled;
