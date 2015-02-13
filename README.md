@@ -15,8 +15,9 @@
 - Analyze Coder Review results;
 - Perform load testing using tools with cleared database cache, memcache and image styles when caches are disabled;
 - Make sure you always have a failover scenario and a quick backup;
+- Check your Maintenance message is appropriate (admin/config/development/maintenance)
 - Configure Cron jobs;
-- Disable all development modules;
+- Disable all development modules(Devel, Views UI, Field UI etc). For quick enable/disable of dev modules and you have admin menu module installed, then configure it here /admin/config/administration/admin_menu under the "Performance" tab;
 - Add console.log stub;
 - Configure caches and reverse-proxies properly: APC, Varnish, Memcache, Akamai;
 - Make sure that AJAX requests are cached properly;
