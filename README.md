@@ -92,3 +92,4 @@ To secure your a website from automated attacks it always better to hide the CMS
  17. Set another Drupal hash salt in settings.file for passwords generation, reset passwords of all the users and send them new;
  18. Check the database for new MySQL users, update MySQL passwords and regenerate passwords/tokens for any systems, which are integrated;
  19. Set another Drupal hash salt in settings.file for passwords generation, reset passwords of all the users and send them new.
+ 20. PSA-2014-003 attacked your server files to send out spam emails for example, so if possible re-create your server files
